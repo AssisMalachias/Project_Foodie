@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    list-style:none;
+    font-family: sans-serif;
+}
+html,body
+{
+    height:100%;
+   
+}
+body
+{
+    min-height:100vh;
+    background-image:url("../_imagens/food_back.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.clear
+{
+    clear: both;
+}
+.container
+{
+    width:100%;
+    max-width:1700px;
+    margin:0 auto;
+}
